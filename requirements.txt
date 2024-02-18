@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+requests
+azure.cognitiveservices.speech
+openpyxl
+wave
+openpyxl
+numpy
